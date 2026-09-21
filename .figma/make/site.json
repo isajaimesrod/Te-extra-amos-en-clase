@@ -1,0 +1,10 @@
+   {
+     "description": "Creates a visually cohesive campaign website using specified colors and images to engage and connect with its target audience effectively.",
+     "robots": {
+       "index": false
+     },
+     "accessibility": {
+       "addBypassLinks": false,
+       "ignoreReducedMotion": false
+     }
+   }
